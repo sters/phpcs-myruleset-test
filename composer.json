@@ -1,0 +1,6 @@
+{
+    "name": "sters/phpcs-myruleset-test",
+    "require": {
+        "squizlabs/php_codesniffer": "~3.2"
+    }
+}
