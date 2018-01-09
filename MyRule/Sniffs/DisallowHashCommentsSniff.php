@@ -2,7 +2,7 @@
 use PHP_CodeSniffer\Sniffs\Sniff;
 use PHP_CodeSniffer\Files\File;
 
-class PhpcsMyRuleSniff implements Sniff
+class DisallowHashCommentsSniff implements Sniff
 {
     /**
      * @return array
